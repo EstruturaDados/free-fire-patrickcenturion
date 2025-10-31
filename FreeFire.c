@@ -1,5 +1,9 @@
-#include <stdio.h>
-#include <string.h>
+#include <stdio.h> 
+int main
+printf ( "free fire!\n");
+
+
+#inclua <studing.h>
 #include <stdlib.h>
 #include <stdbool.h>
 
